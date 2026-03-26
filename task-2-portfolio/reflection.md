@@ -3,8 +3,8 @@
 ## Platforms Set Up
 
 1. **GitHub** – github.com/jahnavigautam009-gif
-2. **LinkedIn** – linkedin.com/in/jahnavi-gautam
-3. **Kaggle** – kaggle.com/jahnavigautam
+2. **LinkedIn** – https://www.linkedin.com/in/jahnavi-gautam-756432366/
+3. **Kaggle** – https://www.kaggle.com/jahnavigautam
 
 
 
