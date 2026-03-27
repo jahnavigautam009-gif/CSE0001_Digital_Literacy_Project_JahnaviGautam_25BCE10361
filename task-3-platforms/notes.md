@@ -14,9 +14,7 @@ Screenshot of completed challenge is included in this folder.
 ## Part B – Google Form
 
 Platform: Google Forms (forms.google.com)
-Form title: Digital Literacy Awareness Quiz
-
-Form link: https://docs.google.com/forms/d/e/1FAIpQLSf7H8rBk_KqiWthjkbOMAKqHiT41lvYxJCyWvHnOJquS3toOw/viewform?usp=publish-editor
+- **Task 3 Google Form:** [Digital Literacy Awareness Quiz](https://docs.google.com/forms/d/e/1FAIpQLSf7H8rBk_KqiWthjkbOMAKqHiT41lvYxJCyWvHnOJquS3toOw/viewform?usp=publish-editor)
 
 The form contains 5 questions:
 1. What does UPI stand for? (Multiple choice)
